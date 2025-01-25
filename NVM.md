@@ -4,6 +4,14 @@ Date: 31.07.2023
 Time: 10:58
 Tags: [cheatsheet]
 ---
+## Installation
+```bash
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+```
+
+
+## Commands
+
 | command                       | description                        |
 | ----------------------------- | ---------------------------------- |
 | nvm --version                 |                                    |

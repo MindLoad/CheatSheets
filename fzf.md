@@ -7,3 +7,11 @@ tags:
 > [!example]- Update `fzf`
 > ```bash
 > cd ~/.fzf && git pull && ./install
+
+
+> [!info]- ripgrep -> fzf [Search in file]
+> ```bash
+> rg 'search_word\w+' | fzf
+> ```
+
+ 
