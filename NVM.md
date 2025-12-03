@@ -12,17 +12,17 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 
 ## Commands
 
-| command                       | description                        |
-| ----------------------------- | ---------------------------------- |
-| nvm --version                 |                                    |
-| nvm ls-remote                 | List available Node.js versions    |
-| nvm install \<version\>       | Install a specific Node.js version |
-| nvm use \<version\>           | User specific Node.js version      |
-| nvm alias default \<version\> | Set a default Node.js version      |
-| nvm ls                        | List installed Node.js versions    |
-| nvm use system                | Switch to system installed Node.js |
-| nvm uninstall \<version\>     | Uninstall specific Node.js version |
-|                               |                                    |
+| command                       | description                         |
+| ----------------------------- | ----------------------------------- |
+| nvm --version                 |                                     |
+| nvm ls-remote                 | List available Node.js versions     |
+| nvm install \<version\>       | Install a specific Node.js version  |
+| nvm use \<version\>           | User specific Node.js version       |
+| nvm alias default \<version\> | Set a default Node.js version       |
+| nvm ls                        | List installed Node.js versions     |
+| nvm use system                | Switch to system installed Node.js  |
+| nvm uninstall \<version\>     | Uninstall specific Node.js version  |
+| nvm install-latest-npm        | Install latest npm relevant to node |
 ### NPM commands
 
 | description                   | command                          |

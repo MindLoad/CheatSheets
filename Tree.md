@@ -5,6 +5,8 @@ Time: 21:20
 Tags: [cheatsheet]
 ---
 
+## Deprecated / LTS instead
+
 ### Count files in folder
 
 ```bash
